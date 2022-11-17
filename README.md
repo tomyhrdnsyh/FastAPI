@@ -1,7 +1,7 @@
 # Cara pakai API
 
 ## Enpoint 1
-`
+```
 endpoint : (baseurl)/services/{episode}
 method: get
 contoh request : http://192.168.38.111:2000//services/one
@@ -20,10 +20,9 @@ contoh response :
           "UK viewers(millions) [2]": "3.05"
         }
       }
-      `
-
+```
 ## Endpoint 2
-`
+```
 endpoint 2: (baseurl)/services/{id}
 method: post
 request body: 
@@ -50,3 +49,4 @@ contoh response :
       "Original air date": "12 September 2013",
       "UK viewers(millions) [2]": "3.05"
     }`
+```
