@@ -3,6 +3,9 @@
 ## Live demo
 > http://192.168.38.111:2000/docs
 
+## Documentation
+> http://192.168.38.111:2000/openapi.json
+
 ## Enpoint 1
 ```
 endpoint : (baseurl)/services/{episode}
