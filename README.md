@@ -1,5 +1,8 @@
 # Cara pakai API
 
+## Live demo
+> http://192.168.38.111:2000/docs
+
 ## Enpoint 1
 ```
 endpoint : (baseurl)/services/{episode}
