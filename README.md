@@ -1,11 +1,12 @@
 # Cara pakai API
 
-
-## endpoint: (baseurl)/services/{episode}
-## method: get
-## contoh request : ``` http://192.168.38.111:2000//services/one```
-## contoh response : 
-    ```response : {
+## Enpoint 1
+```
+endpoint : (baseurl)/services/{episode}
+method: get
+contoh request : http://192.168.38.111:2000//services/one
+contoh response : 
+    response : {
         "status": 200,
         "message status": "success",
         "data": {
