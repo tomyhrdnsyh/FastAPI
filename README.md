@@ -1,22 +1,4 @@
 # Cara pakai API
 
-1. 
-endpoint: (baseurl)/services/{episode} \n
-method: get
-contoh request : 127.0.0.1/services/one
-contoh response : 
-    response : {
-        "status": 200,
-        "message status": "success",
-        "data": {
-          "Movie": "Peaky Blinders",
-          "No.overall": "1",
-          "No. inseries": "1",
-          "Episode": "Episode 1",
-          "Directed by": "tomy",
-          "Written by": "tomy",
-          "Original air date": "12 September 2013",
-          "UK viewers(millions) [2]": "3.05"
-        }
-      }
 
+![image](https://user-images.githubusercontent.com/58851621/202558065-ebd2de05-38f8-41ae-ac23-2aede37d6cae.png)
