@@ -1,0 +1,62 @@
+{
+    "one": {
+        "Movie": "Peaky Blinders",
+        "No.overall": "1",
+        "No. inseries": "1",
+        "Episode": "Episode 1",
+        "Directed by": "tomy",
+        "Written by": "tomy",
+        "Original air date": "12 September 2013",
+        "UK viewers(millions) [2]": "3.05"
+    },
+    "two": {
+        "Movie": "Peaky Blinders",
+        "No.overall": "2",
+        "No. inseries": "2",
+        "Episode": "Episode 2",
+        "Directed by": "Otto Bathurst",
+        "Written by": "Steven Knight",
+        "Original air date": "19 September 2013",
+        "UK viewers(millions) [2]": "2.45"
+    },
+    "three": {
+        "Movie": "Peaky Blinders",
+        "No.overall": "3",
+        "No. inseries": "3",
+        "Episode": "Episode 3",
+        "Directed by": "Otto Bathurst",
+        "Written by": "Steven Knight",
+        "Original air date": "26 September 2013",
+        "UK viewers(millions) [2]": "2.20"
+    },
+    "four": {
+        "Movie": "Peaky Blinders",
+        "No.overall": "4",
+        "No. inseries": "4",
+        "Episode": "Episode 4",
+        "Directed by": "Tom Harper",
+        "Written by": "Steven Knight, Stephen Russell",
+        "Original air date": "3 October 2013",
+        "UK viewers(millions) [2]": "2.31"
+    },
+    "five": {
+        "Movie": "Peaky Blinders",
+        "No.overall": "5",
+        "No. inseries": "5",
+        "Episode": "Episode 5",
+        "Directed by": "Tom Harper",
+        "Written by": "Steven Knight, Toby Finlay",
+        "Original air date": "10 October 2013",
+        "UK viewers(millions) [2]": "2.03"
+    },
+    "six": {
+        "Movie": "Peaky Blinders",
+        "No.overall": "6",
+        "No. inseries": "6",
+        "Episode": "Episode 6",
+        "Directed by": "Tom Harper",
+        "Written by": "Steven Knight",
+        "Original air date": "17 October 2013",
+        "UK viewers(millions) [2]": "2.24"
+    }
+}
