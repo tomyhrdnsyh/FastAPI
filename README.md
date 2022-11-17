@@ -1,5 +1,22 @@
 # Cara pakai API
 
 
-![image](https://user-images.githubusercontent.com/58851621/202559488-7e34ef13-bb42-42fd-ac75-b35130ec43f0.png)
-![image](https://user-images.githubusercontent.com/58851621/202559448-7e9b82b5-f2d7-4999-a3f7-117a51220437.png)
+## endpoint: (baseurl)/services/{episode}
+## method: get
+## contoh request : ``` http://192.168.38.111:2000//services/one```
+## contoh response : 
+    ```response : {
+        "status": 200,
+        "message status": "success",
+        "data": {
+          "Movie": "Peaky Blinders",
+          "No.overall": "1",
+          "No. inseries": "1",
+          "Episode": "Episode 1",
+          "Directed by": "tomy",
+          "Written by": "tomy",
+          "Original air date": "12 September 2013",
+          "UK viewers(millions) [2]": "3.05"
+        }
+      }```
+
