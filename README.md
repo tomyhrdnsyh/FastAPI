@@ -1,7 +1,7 @@
 # Cara pakai API
 
 1. 
-endpoint: (baseurl)/services/{episode}
+endpoint: (baseurl)/services/{episode} \n
 method: get
 contoh request : 127.0.0.1/services/one
 contoh response : 
